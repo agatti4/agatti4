@@ -2,7 +2,7 @@
 <h3> About Me 👨🏻‍💻 </h3>
 <ul>
   <li>Currently trying to learn/understand containerization</li>
-  <li>Learning a little of everything</li>
+  <li>Learning a little bit of everything</li>
   <li>Studying Computer Science, Math, and Economics</li>
 </ul>  
 <h3> Tech Stack </h3>
@@ -10,7 +10,7 @@
 - &nbsp; Python | C/C++ | Java | R
 - &nbsp; HTML | CSS | JavaScript | jQuery | PHP | React | Flask
 - &nbsp; MySQL | Firebase | Xampp | MongoDB
-- &nbsp; Android Studio | Visual Studio code | Git | Jira | Jupyter | npm
+- &nbsp; Android Studio | Visual Studio code | Git | Jira | Jupyter | npm | bash
 - &nbsp; Photoshop
 
 <!---
