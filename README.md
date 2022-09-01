@@ -8,10 +8,10 @@
 <h3> Tech Stack </h3>
 
 - &nbsp; Python | C/C++ | Java | R
-- &nbsp; HTML | CSS | JavaScript | jQuery | PHP | React
+- &nbsp; HTML | CSS | JavaScript | jQuery | PHP | React | Flask
 - &nbsp; MySQL | Firebase | Xampp | MongoDB
 - &nbsp; Android Studio | Visual Studio code | Git | Jira | Jupyter | npm
-- &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- &nbsp; Photoshop
 
 <!---
 agatti4/agatti4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
