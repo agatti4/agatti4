@@ -5,10 +5,13 @@
   <li>Learning a little of everything</li>
   <li>Studying Computer Science, Math, and Economics</li>
 </ul>  
-<h3> 👀 I’m interested in </h3>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3> Tech Stack </h3>
+
+- &nbsp; Python | C/C++ | Java | R
+- &nbsp; HTML | CSS | JavaScript | jQuery | PHP | React
+- &nbsp; MySQL | Firebase | Xampp | MongoDB
+- &nbsp; Android Studio | Visual Studio code | Git | Jira | Jupyter | npm
+- &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <!---
 agatti4/agatti4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
